@@ -13,3 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	php 7.4.7
+	Xamp 4.4
