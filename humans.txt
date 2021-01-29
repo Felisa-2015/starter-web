@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Mi nombre es Mau
 
 # TECHNOLOGY COLOPHON
 
