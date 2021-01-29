@@ -2,8 +2,7 @@
 
 ##Introduccion
 
-hufuthftjglotgkñrld{ñltmgvrrf
-
+ESTA ES UNA INTRODUCCION
 ##Purpose
 
 yhjbiyvubyiunioiinngyyf
