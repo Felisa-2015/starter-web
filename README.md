@@ -7,7 +7,7 @@ esto es stash
 esto es de my
 ##Purpose
 
-yhjbiyvubyiunioiinngyyf
+esta es manejado con stash 
 
 
 ##Deployment
@@ -16,5 +16,4 @@ yhjbiyvubyiunioiinngyyf
 njfhgfwdjfghj<kxcuyfuhdjkibjkdlñblkgfdlfgbkjgf
 
 ##How To Contribute
-555555555555555555555555454685468484864654654564564
-rgyfbgrycbgeufhdcuxbewvyegcumqswegcrvbwqamjdhbvredbngbtfvr
+ se contribuye con git
